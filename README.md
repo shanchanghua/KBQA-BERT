@@ -97,4 +97,5 @@
 - 邮件我：shanhe12@163.com 
 - 微信我： 加我*微信号：hua7yi, 备注：姓名-公司名-NLP* 进NLP交流群。
 
-<img src="https://github.com/shanchanghua/KBQA-BERT/blob/master/docs/wechat.jpg" width="200" />
+<img src="https://github.com/shanchanghua/KBQA-BERT/tree/master/docs/wechat.jpg" width="200" />
+ 
