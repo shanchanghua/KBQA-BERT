@@ -93,7 +93,8 @@
 ```
  
  --------------------------------------------------------------
-**如果觉得我的工作对您有帮助，请不要吝啬右上角的小星星哦！欢迎Fork和Star！也欢迎一起建设这个项目！**    
-**有时间就会更新问答相关项目，有兴趣的同学可以follow一下**  
-**留言请在Issues或者email  richardxie1205@gmail.com**
-    
+- Issue(建议)
+- 邮件我：shanhe12@163.com 
+- 微信我： 加我*微信号：hua7yi, 备注：姓名-公司名-NLP* 进NLP交流群。
+
+<img src="https://github.com/shanchanghua/KBQA-BERT/blob/master/docs/wechat.jpg" width="200" />
